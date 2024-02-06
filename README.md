@@ -12,3 +12,6 @@ Blockchain, Cybersecurity, Data Science and Artificial Intelligence Engineering,
 
 The learning track I chose was DATA SCIENCE AND AI.
 This Repo consists of all the projects I will be working on as I undergo my training with tech4dev
+
+Please Note:
+There is a project readme. please go through it. It contains a little detail on the main project I carried out myself. 
